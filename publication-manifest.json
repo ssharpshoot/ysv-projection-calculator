@@ -1,0 +1,10 @@
+{
+  "version": "1.5.0",
+  "date": "2026-10-22",
+  "entry": "index.html",
+  "bytes": 5217564,
+  "sha256": "83766f1ac64358d29ca8a6c027d54cc845bb4e9f19cab432501f16873b521830",
+  "site": "https://ssharpshoot.github.io/ysv-projection-calculator/",
+  "role": "published-runtime",
+  "excluded": "Internal project notes, original reports, historical backups and dependencies are not part of this publication."
+}
